@@ -2,6 +2,10 @@
 layout: post
 categories: [wisdom]
 title: Read SICP and complete all the exercises
-status: todo
-time: Not started
+status: wip
+time: 2020/05/13
 ---
+
+[Link to the text and resources](http://mitpress.mit.edu/sicp/)
+
+It's on my reading list this summer.

@@ -2,6 +2,10 @@
 layout: post
 categories: [paradigms]
 title: Write a program in assembly language
-status: todo
-time: Not started
+status: wip
+time: 2017
 ---
+
+I wrote many MIPS programs for Comp 411 at UNC Chapel Hill (Computer
+Organization). I'm in the process of writing a more advanced MIPS program (a
+compiled LISP for MIPS).

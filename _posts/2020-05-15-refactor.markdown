@@ -5,3 +5,5 @@ title: Perform a Refactotum of an open source project
 status: todo
 time: Not started
 ---
+
+[What is a Refactotum?](http://thinkrelevance.com/blog/2007/04/03/twir.html)

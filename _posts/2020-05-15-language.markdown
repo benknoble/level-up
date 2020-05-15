@@ -2,6 +2,12 @@
 layout: post
 categories: [building-blocks]
 title: Write a programming language
-status: todo
-time: Not started
+status: wip
+time: 2019
 ---
+
+I wrote a Lisp interpreter in Java for UNC Chapel Hill's Comp 524 (Programming
+Language Concepts). Previously, I wrote a compiler for a subset of Java (also in
+Java) for Comp 520 (Compilers).
+
+I have grander plans, though.

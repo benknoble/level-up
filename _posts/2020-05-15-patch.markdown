@@ -2,6 +2,11 @@
 layout: post
 categories: [open]
 title: Have a patch accepted
-status: todo
-time: Not started
+status: done
+time: 2018/05/11
 ---
+
+While my contributions to Roslyn probably count here too (they were a patch), I
+figured I would highlight another small contribution that resulted in a new
+feature: [I added a new prompt placeholder to
+`gitsh`](https://github.com/dotnet/roslyn/pull/22320).

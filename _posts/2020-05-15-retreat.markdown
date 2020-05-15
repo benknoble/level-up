@@ -5,3 +5,5 @@ title: Attend a code retreat
 status: todo
 time: Not started
 ---
+
+[The one and only coderetreat](https://www.coderetreat.org)

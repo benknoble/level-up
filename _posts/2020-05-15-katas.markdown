@@ -5,3 +5,5 @@ title: Complete five code katas
 status: todo
 time: Not started
 ---
+
+[Learn about katas](http://en.wikipedia.org/wiki/Kata_/(programming/))

@@ -1,7 +1,11 @@
 ---
 layout: post
 categories: [open]
-title: Earn commit rights on a significant open source project
-status: todo
-time: Not started
+title: Earn commit rights on a significant open-source project
+status: done
+time: 2018/04/13
 ---
+
+I became a maintainer of [dracula/vim](https://github.com/dracula/vim), which
+*I* consider to be a significant open-source project. That doesn't mean there
+won't be others though :).
