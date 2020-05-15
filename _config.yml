@@ -1,1 +1,11 @@
 # nothing here yet
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - Session.vim
+  - serve
+  - subs/
+  - tags-list
