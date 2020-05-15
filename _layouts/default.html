@@ -7,7 +7,11 @@
 </head>
   <body>
     <header>
+      {% if page.homepage and page.homepage != nil and page.homepage != "" %}
       <h1><a href="{{ page.homepage }}">{{ page.title }}</a></h1>
+      {% else %}
+      <h1><a href="{{ site.url }}">{{ page.title }}</a></h1>
+      {% endif %}
       <h2>
         <a href="http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/">Leveling up as a developer</a>
         - the journey is important too!
