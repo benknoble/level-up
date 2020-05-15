@@ -9,3 +9,5 @@ exclude:
   - serve
   - subs/
   - tags-list
+
+permalink: /:categories/:slug
