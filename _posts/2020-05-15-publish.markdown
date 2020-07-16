@@ -7,7 +7,7 @@ time: 2019/06/13
 ---
 
 Where do I start? I'll leave [my
-project](https://gist.github.com/benknoble/7b3de965780f30fc9f6340a6830ad2c9) for
+projects](https://gist.github.com/benknoble/7b3de965780f30fc9f6340a6830ad2c9) for
 reference, and call [loner](https://github.com/benknoble/loner) one of my
 earliest "good" ones. Loner deals with the LL(1) computation on contex-free
 grammars.
