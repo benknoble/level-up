@@ -6,7 +6,7 @@ status: done
 time: 2020/05/01
 ---
 
-I co-wrote [limchess](https://github.com/benknoble/limchess) with a friend of
+I co-wrote [limchess](https://github.com/2buttonchess/limchess) with a friend of
 mine for UNC Chapel Hill's Comp 580 (Enabling Technology). The project is mostly
 JavaScript and leans heavily on jQuery to bring chess to the accessible world of
 limited-input devices. (I haven't done anything with node, but I think this
