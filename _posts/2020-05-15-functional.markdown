@@ -17,3 +17,7 @@ context-free-grammar library, in Scala.
 
 I'm working on a formal-languages library and application in Clojure, and I have
 a few more ideas for which SML or Haskell might be well-suited.
+
+I recently wrote
+[smlnj-parser-style](https://github.com/benknoble/smlnj-parser-style), a small
+static-analysis library for UNC's Comp 524 (Programming Language Concepts).

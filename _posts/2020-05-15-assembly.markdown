@@ -2,10 +2,12 @@
 layout: post
 categories: [paradigms]
 title: Write a program in assembly language
-status: wip
-time: 2017
+status: done
+time: 2020/11/11
 ---
 
 I wrote many MIPS programs for Comp 411 at UNC Chapel Hill (Computer
-Organization). I'm in the process of writing a more advanced MIPS program (a
-compiled LISP for MIPS).
+Organization).
+
+I recently wrote a MIPS interpreter in MIPS for Comp 541 (Digital Logic). More
+information on [mips2](https://github.com/benknoble/mips2) on GitHub.
