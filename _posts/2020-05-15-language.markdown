@@ -3,8 +3,13 @@ layout: post
 categories: [building-blocks]
 title: Write a programming language
 status: wip
-time: 2019
+time: 2022
 ---
+
+While at CapitalOne, I wrote a small language to generate necessary documents
+for database migrations my team performed. I wrote a larger language that
+combined general-purpose programming with a specific (HTTP/S) API to make
+controlling Kafka clusters easier.
 
 I wrote a Lisp interpreter in Java for UNC Chapel Hill's Comp 524 (Programming
 Language Concepts). Previously, I wrote a compiler for a subset of Java (also in

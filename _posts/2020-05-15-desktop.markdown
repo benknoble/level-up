@@ -2,6 +2,11 @@
 layout: post
 categories: [platforms]
 title: Write a nontrivial desktop app
-status: todo
-time: Not started
+status: wip
+time: 2022-03-31
 ---
+
+I proudly present the [Frosthaven
+Manager](https://github.com/benknoble/frosthaven-manager), a cross-platform
+desktop application for managing scenarios during the legacy game *Frosthaven*.
+While it is functional, there are many more feature to build!
