@@ -10,6 +10,8 @@ For AP Computer Science (high school), I implemented a game called "Baffles" in
 Java. One shoots lasers into a grid and guesses where in the grid are located
 "mirrors" that deflect the laser.
 
-I also wrote a compiler for a subset of Java in Java. So much Java...
+I also wrote a compiler for a subset of Java in Java. So much Java…
 
 There's more: check out [prolog-java](https://github.com/benknoble/prolog-java).
+
+My current team at work operates mostly Java SpringBoot services.

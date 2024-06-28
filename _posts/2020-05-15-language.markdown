@@ -15,4 +15,7 @@ I wrote a Lisp interpreter in Java for UNC Chapel Hill's Comp 524 (Programming
 Language Concepts). Previously, I wrote a compiler for a subset of Java (also in
 Java) for Comp 520 (Compilers).
 
+The [Frosthaven Manager includes some restricted programming languages for game
+data](https://benknoble.github.io/frosthaven-manager/Programming_a_Scenario.html).
+
 I have grander plans, though.

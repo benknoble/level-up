@@ -6,7 +6,7 @@ status: done
 time: 2022-08-20
 ---
 
-I presented a lightning talk on Vim to other CapitalOne TDPs.
+I presented a lightning talk on Vim to other Capital One TDPs.
 
 I also presented a lightning talk on the importance of Git commit messages;
 specifically, I advocated for details about _why_ changes are being made.

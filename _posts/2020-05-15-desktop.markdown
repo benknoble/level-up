@@ -9,4 +9,5 @@ time: 2022-03-31
 I proudly present the [Frosthaven
 Manager](https://github.com/benknoble/frosthaven-manager), a cross-platform
 desktop application for managing scenarios during the legacy game *Frosthaven*.
-While it is functional, there are many more feature to build!
+While it is functional (we've played over a year's worth of *Frosthaven* games
+using my application), there are many more feature to build!

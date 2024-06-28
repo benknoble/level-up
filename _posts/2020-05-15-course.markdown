@@ -2,6 +2,12 @@
 layout: post
 categories: [teaching]
 title: Deliver a training course
-status: todo
-time: Not started
+status: done
+time: 2024/04/01
 ---
+
+I run weekly Git training at work involving 30-minute guided office hour-style
+sessions and recorded shorts (5 minutes or less). I cover how to use various Git
+tools, why they are important, how they are built. I also include social content
+on open source stewardship, the importance of commit hygiene and best practices,
+and PR reviews.
